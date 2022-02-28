@@ -392,6 +392,7 @@ If you will expience while running the the above command please try running the 
 ```php
 npm update vue-loader
 ``
+```
 should do the work just fine if the vue-loader package is already installed.
 # Conclusion
 In this like dislike Vue js with laravel example tutorial, you have learned how to implement like dislike system with Vue js in laravel apps.
