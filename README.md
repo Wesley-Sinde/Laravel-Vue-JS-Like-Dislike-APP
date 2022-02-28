@@ -6,17 +6,18 @@ Larave 9 vue js like dislike system example; Through this tutorial, i am going t
 
 # Laravel 9 Vue JS Like Dislike Example
 Use the below given steps to make like and dislike system in laravel vue js apps:
-
-Step 1: Install Laravel 9 App
-Step 2: Configure App to Database
-Step 3: Run Make auth Command
-Step 4: Create Model And Migration
-Step 5: NPM Configuration
-Step 6: Add Routes
-Step 7: Create Controller By Command
-Step 8: Create Vue Component
-Step 9: Create Blade Views And Initialize Vue Components
-Step 10: Run Development Server
+|Action|Work|
+|---|---|
+|Step 1:| Install Laravel 9 App|
+|Step 2:| Configure App to Database|
+|Step 3:| Run Make auth Command
+|Step 4:| Create Model And Migration|
+|Step 5:| NPM Configuration|
+|Step 6:| Add Routes|
+|Step 7:| Create Controller By Command|
+|Step 8:| Create Vue Component|
+|Step 9:| Create Blade Views And Initialize Vue Components|
+|Step 10:| Run Development Server|
 
 # Step 1: Install Laravel 9 App
 Run the following command on command prompt to install laravel apps:
